@@ -1,0 +1,9 @@
+[terminal.shell]
+program = "zellij"
+args = ["-l", "welcome"]
+
+[font]
+normal = { family = "JetBrainsMono NFM", style = "normal" }
+
+[window]
+opacity = 0.8
